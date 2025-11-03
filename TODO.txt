@@ -1,0 +1,13 @@
+# Task Tracker App - Key Functionality
+
+- [ ] View all tasks (GET /tasks)
+- [ ] Add new task (POST /tasks)
+- [ ] Toggle task completed status (PUT /tasks/:id)
+- [ ] Delete task (DELETE /tasks/:id)
+- [ ] Backend stores tasks (Python list, FastAPI endpoints)
+
+Optional:
+- [ ] Auto-generate task IDs
+- [ ] Persist tasks locally (AsyncStorage / SQLite)
+- [ ] Filter tasks (completed / pending)
+- [ ] Add creation timestamp
